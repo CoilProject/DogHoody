@@ -10,6 +10,7 @@
     tools:context="com.hoody.doghoody.MainActivity">
 
     <Button
+        android:id="@+id/button_map"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="지도에서 찾기"/>
